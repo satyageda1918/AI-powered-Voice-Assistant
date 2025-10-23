@@ -1,0 +1,14 @@
+streamlit
+audio-recorder-streamlit
+soundfile
+faster-whisper
+ctranslate2
+TTS==0.21.3
+transformers==4.41.2
+sentence-transformers
+langdetect
+numpy
+torch
+torchaudio
+librosa
+safetensors
